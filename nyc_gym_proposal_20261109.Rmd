@@ -15,6 +15,7 @@ Xieyu Liu (xl3712)\
 Luyao Mao (lm4199)\
 Yixuan Li (yl6377)
 
+
 ## Tentative project title
 
 [Beyond the Gym: Exploring Socioeconomic Inequality and Health Equity in New York City]{style="background-color: yellow;"}  
